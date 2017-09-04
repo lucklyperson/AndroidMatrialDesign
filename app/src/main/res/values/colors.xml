@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="ui_main_color">#ff6400</color>
+    <!--辅助色-->
+    <color name="ui_assist_color_blue">#219dff</color>
+    <color name="ui_assist_color_yellow">#ffb703</color>
+    <!--背景色-->
+    <color name="ui_background_color">#efefef</color>
+    <!--分割线-->
+    <color name="ui_dividing_line_color">#dbd6d6</color>
+</resources>
